@@ -26,8 +26,3 @@ A cutting-edge navigation system featuring fluid animations, intelligent hover e
 - [Google Fonts (Inter)](https://fonts.google.com/specimen/Inter)
 
 ## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/navix.git
-   cd navix
